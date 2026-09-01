@@ -16,7 +16,7 @@ RUN pip install -r requirements.txt
 
 # expose port 88
 
-EXPOSE 80
+EXPOSE 88
 
 # serve the app / run the app (keep it running)
 
